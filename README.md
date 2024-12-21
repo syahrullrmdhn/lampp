@@ -21,7 +21,7 @@ This repository contains a Bash script for manually setting up LAMPP (Linux, Apa
 
 1. Clone this repository or download the script directly:
    ```bash
-   git clone https://github.com/syahrullrmdhn/lampp.git
+   git clone https://github.com/syahrullrmdhn/lampp
    cd lampp
    ```
 
